@@ -1,4 +1,4 @@
-Add the spacelab folder to your mahara as below. It is required for the theme to fully function as a responsive theme. Everything else goes into htdocs/theme/cyborg
+Add the spacelab folder to your mahara as below. It is required for the theme to fully function as a responsive theme. Everything else goes into htdocs/theme/spacelab (create a folder called 'spacelab' in htdocs/theme)
 
 
 htdocs/js/spacelab
